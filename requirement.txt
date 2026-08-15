@@ -1,0 +1,5 @@
+Recommmended system requirements
+RAM: 4GB
+CPU: 1.5GHz or faster. IGHz minimum
+Display: At least 1280x720 (1920x1080 recommended)
+GPU: Integrated or Discrete - anyone you prefer
