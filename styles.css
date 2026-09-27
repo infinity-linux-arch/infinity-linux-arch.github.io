@@ -132,6 +132,14 @@ footer{height:auto;min-height:86px;padding-top:25px;padding-bottom:25px;gap:15px
 .release-note{grid-column:2;padding:21px 23px;background:rgba(255,255,255,.025);border-left:2px solid #4b87ee}
 .release-note p{color:#9ba5b7;font-size:12px;margin:8px 0 0;line-height:1.65}
 .release-note a{color:#82abff;text-decoration:none}
+.docs-card{
+    border:1px solid rgba(82,143,255,.35);
+    background:rgba(36,83,185,.12);
+}
+
+.docs-card b{
+    color:#82abff;
+}
 .rolling-warning{max-width:590px;margin:0 auto 24px;padding:15px 17px;display:flex;text-align:left;gap:13px;border:1px solid rgba(230,174,87,.35);background:rgba(143,96,27,.11);color:#c4bcae}
 .rolling-warning span{display:flex;align-items:center;justify-content:center;flex:none;width:20px;height:20px;border:1px solid #f2bd60;border-radius:50%;color:#f2bd60;font-family:Georgia,serif;font-weight:bold}
 .rolling-warning p{margin:0;font-size:11px;line-height:1.65}
